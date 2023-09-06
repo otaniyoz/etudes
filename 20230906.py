@@ -6,8 +6,6 @@ import matplotlib.font_manager
 matplotlib.font_manager._rebuild()
 
 def main():
-  s = "IN CODE"
-  s1 = s
   w, h = 400, 300
   num_frames = 300
   rng = numpy.random.default_rng()
