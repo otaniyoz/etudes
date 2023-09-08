@@ -1,3 +1,5 @@
+https://github.com/otaniyoz/etudes/assets/37662409/33e34e59-28dd-47be-8601-fa0625b1f393
+
 Etudes are small pieces of code with minimal dependecies that create self‑contained creative animations.
 
 There are no strict rules to etudes, but here are some guidelines:
