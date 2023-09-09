@@ -11,7 +11,7 @@ Etudes are different from code golfing: they should not optimise for shorter cod
 I think, with these loose constraints, etudes are a healthier and a more enjoyable alternative to coding exercises and interview questions.
 
 ## Usage
-### Etudes 20230722...20230909
+### Etudes 20230722...20230910
 These etudes assume a certain structure to folder. Specifically, there should a folder named `frames` on the level at which you execute the code. Paths are hardcoded, so if you want to change anything, you need to respect original conventions or update them.
 
 These etudes were made using Python's numpy, matplotlib, scipy, and some standard libraries; they should run on any more or less recent version of Python, but I haven't done any tests to prove this claim. With dependecies sorted out, you should be able to run the code like so `python 20230722.py`.
